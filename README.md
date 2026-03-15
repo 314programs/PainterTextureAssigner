@@ -3,13 +3,13 @@ A simple tool that automatically assigns exported textures to their respective m
 
 # How to use
 1. Import the script into Unity; it will automatically create a new item named Painter Texture Assigner in the tool window. 
-![tools](Pictures/tools.png)
-2. After opening the Painter Texture Assigner, assign the FBX model used for the material and assign two folders that contain extracted materials and exported textures. ![assignTextures](Pictures/assignTextures.png)
+<img src="Pictures/tools.png" height=300px>
+2. After opening the Painter Texture Assigner, assign the FBX model used for the material and assign two folders that contain extracted materials and exported textures. <img src="Pictures/assignTextures" height=300px>
 3. Select the options you want for textures using the checkboxes. Naming criteria for the texture options can be found on line 148 of the script. Make sure that the naming criteria are matched completely. ![namingScript](Pictures/namingScript.png) ![textureNaming](Pictures/textureNaming.png)
 4. Click Validate Selection. If the textures are not valid, check the debug log to see which textures are missing.
 5. If the textures are valid, the Assign Textures button becomes available; press on it to assign the textures.
 
-<img src="Pictures/namingScript.png" width=50% height=50%>
+
 
 
 
