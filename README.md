@@ -9,6 +9,10 @@ A simple tool that automatically assigns exported textures to their respective m
 4. Click Validate Selection. If the textures are not valid, check the debug log to see which textures are missing.
 5. If the textures are valid, the Assign Textures button becomes available; press on it to assign the textures.
 
+<img src="Pictures/namingScript.png" width=50% height=50%>
+
+
+
 # Other
 Feel free to modify this script for personal use, but do not resell the script under any circumstances. This is a free-to-use tool.
 If you want to thank me, feel free to tip me on [ko-fi](https://ko-fi.com/314programs).
